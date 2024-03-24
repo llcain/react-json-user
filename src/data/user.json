@@ -1,0 +1,22 @@
+{
+    "user": [
+        {
+            "name": "Eric Bake",
+            "age": 23,
+            "email": "ericBake@gmail.com",
+            "id": 1
+        },
+        {
+            "name": "Bob Elliott",
+            "age": 32,
+            "email": "bobElliott@yahoo.com",
+            "id": 2
+        },
+        {
+            "name": "Allen Doe",
+            "age": 41,
+            "email": "allendoe147@gmail.com",
+            "id": 3
+        }
+    ]
+}
